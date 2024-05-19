@@ -29,11 +29,11 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests oui
+A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
